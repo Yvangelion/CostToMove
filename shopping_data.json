@@ -1,0 +1,282 @@
+{
+    "Kitchen": {
+        "Plates, bowls": {
+            "price": 1.25,
+            "quantity": 3
+        },
+        "Cups/mugs/glasses": {
+            "price": 1.25,
+            "quantity": 3
+        },
+        "Silverware": {
+            "price": 1.25,
+            "quantity": 3
+        },
+        "Tupperware": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "Dish soap": {
+            "price": 3.5,
+            "quantity": 0
+        },
+        "Pans/Pots": {
+            "price": 10.0,
+            "quantity": 2
+        },
+        "Cookie sheets (long pans)": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "Ladle/Spatula/tongs": {
+            "price": 20.0,
+            "quantity": 1
+        },
+        "Pot holders": {
+            "price": 1.25,
+            "quantity": 1
+        },
+        "Cutting Board": {
+            "price": 5.0,
+            "quantity": 1
+        },
+        "Water Bottles": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "Mixing bowls": {
+            "price": 1.25,
+            "quantity": 2
+        },
+        "Measuring cups/Teaspoons/tablespoons": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "bottle opener": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "Drying rack": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "towels/wash rags": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "crockpot/instapot": {
+            "price": 60.0,
+            "quantity": 0
+        }
+    },
+    "Bathroom": {
+        "Towels/rags": {
+            "price": 40.0,
+            "quantity": 1
+        },
+        "Body Wash/Soap/Shampoo/Conditioner/Hand Soap": {
+            "price": 20.0,
+            "quantity": 1
+        },
+        "Toilet brush and plunger (as well as cleaner)": {
+            "price": 15.0,
+            "quantity": 1
+        },
+        "Lotion": {
+            "price": 10.0,
+            "quantity": 1
+        },
+        "Toothbrush/Toothpaste/toothbrush holder": {
+            "price": 5.0,
+            "quantity": 1
+        },
+        "toilet paper": {
+            "price": 5.0,
+            "quantity": 1
+        },
+        "shower curtain (and hooks for it!)": {
+            "price": 10.0,
+            "quantity": 1
+        }
+    },
+    "Bedroom": {
+        "Mattress": {
+            "price": 100.0,
+            "quantity": 1
+        },
+        "Sheets and Bedding": {
+            "price": 20.0,
+            "quantity": 1
+        },
+        "Pillows": {
+            "price": 5.0,
+            "quantity": 1
+        },
+        "Clothing hangers": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "Clothes (Shirts, Socks, Underwear, Pants/Skirts, dresses, etc)": {
+            "price": 0.0,
+            "quantity": 0
+        }
+    },
+    "Laundry Room": {
+        "Laundry Detergent/Softener": {
+            "price": 20.0,
+            "quantity": 1
+        },
+        "Stain Remover": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "Cleaners": {
+            "price": 1.25,
+            "quantity": 2
+        }
+    },
+    "Pantry/Foodwise": {
+        "Bread": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "Milk": {
+            "price": 2.5,
+            "quantity": 1
+        },
+        "Cheese": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "Butter": {
+            "price": 1.0,
+            "quantity": 1
+        },
+        "Sugar/Flour": {
+            "price": 3.0,
+            "quantity": 1
+        },
+        "Rice": {
+            "price": 20.0,
+            "quantity": 1
+        },
+        "Pasta": {
+            "price": 10.0,
+            "quantity": 1
+        },
+        "Chicken/Beef": {
+            "price": 20.0,
+            "quantity": 1
+        },
+        "Seasonings": {
+            "price": 5.0,
+            "quantity": 1
+        },
+        "Condiments": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "Cereals": {
+            "price": 3.0,
+            "quantity": 1
+        }
+    },
+    "Miscellaneous": {
+        "First Aid": {
+            "price": 0.0,
+            "quantity": 9
+        },
+        "Pet Supplies": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "Mop, Broom, Vacuum, dust pan": {
+            "price": 3.0,
+            "quantity": 1
+        },
+        "Paper Towels": {
+            "price": 5.0,
+            "quantity": 1
+        },
+        "Trash Bags": {
+            "price": 10.0,
+            "quantity": 1
+        },
+        "Ziploc Bags": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "Tools": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "Batteries": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "Trash Cans": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "An Iron (and possible ironing board)": {
+            "price": 10.0,
+            "quantity": 1
+        },
+        "Tissues": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "Scissors": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "Laundry Basket": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "Lightbulbs": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "Heater/Fan": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "Curtains": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "Step Stool": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "Smoke/Carbon Dioxide Detectors": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "Matches": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "Flashlights": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "Extension cords": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "Tape": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "Pens, pencils, erasers, sharpeners, sharpies, etc": {
+            "price": 0.0,
+            "quantity": 0
+        },
+        "Safe Box for Documents": {
+            "price": 0.0,
+            "quantity": 0
+        }
+    }
+}
