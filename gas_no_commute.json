@@ -1,0 +1,289 @@
+[
+    {
+        "scenario": "Scenario 1",
+        "start rent": 772,
+        "total_yearly_cost": 11235.24,
+        "--------": "--------",
+        "total_monthly_cost": 936.27
+    },
+    {
+        "scenario": "Scenario 31",
+        "start rent": 954,
+        "total_yearly_cost": 12011.16,
+        "--------": "--------",
+        "total_monthly_cost": 1000.93
+    },
+    {
+        "scenario": "Scenario 35",
+        "start rent": 1075,
+        "total_yearly_cost": 13031.28,
+        "--------": "--------",
+        "total_monthly_cost": 1085.94
+    },
+    {
+        "scenario": "Scenario 3",
+        "start rent": 960,
+        "total_yearly_cost": 13450.68,
+        "--------": "--------",
+        "total_monthly_cost": 1120.89
+    },
+    {
+        "scenario": "Scenario 11",
+        "start rent": 1049,
+        "total_yearly_cost": 13930.8,
+        "--------": "--------",
+        "total_monthly_cost": 1160.9
+    },
+    {
+        "scenario": "Scenario 36",
+        "start rent": 1067,
+        "total_yearly_cost": 14119.68,
+        "--------": "--------",
+        "total_monthly_cost": 1176.64
+    },
+    {
+        "scenario": "Scenario 2",
+        "start rent": 1055,
+        "total_yearly_cost": 14139.36,
+        "--------": "--------",
+        "total_monthly_cost": 1178.28
+    },
+    {
+        "scenario": "Scenario 29",
+        "start rent": 1198,
+        "total_yearly_cost": 14140.92,
+        "--------": "--------",
+        "total_monthly_cost": 1178.41
+    },
+    {
+        "scenario": "Scenario 18",
+        "start rent": 1127,
+        "total_yearly_cost": 14221.2,
+        "--------": "--------",
+        "total_monthly_cost": 1185.1
+    },
+    {
+        "scenario": "Scenario 38",
+        "start rent": 1021,
+        "total_yearly_cost": 14244.36,
+        "--------": "--------",
+        "total_monthly_cost": 1187.03
+    },
+    {
+        "scenario": "Scenario 5",
+        "start rent": 1090,
+        "total_yearly_cost": 14430.12,
+        "--------": "--------",
+        "total_monthly_cost": 1202.51
+    },
+    {
+        "scenario": "Scenario 28",
+        "start rent": 999,
+        "total_yearly_cost": 14516.04,
+        "--------": "--------",
+        "total_monthly_cost": 1209.67
+    },
+    {
+        "scenario": "Scenario 10",
+        "start rent": 1050,
+        "total_yearly_cost": 14563.32,
+        "--------": "--------",
+        "total_monthly_cost": 1213.61
+    },
+    {
+        "scenario": "Scenario 9",
+        "start rent": 1090,
+        "total_yearly_cost": 14571.24,
+        "--------": "--------",
+        "total_monthly_cost": 1214.27
+    },
+    {
+        "scenario": "Scenario 26",
+        "start rent": 1190,
+        "total_yearly_cost": 14961.96,
+        "--------": "--------",
+        "total_monthly_cost": 1246.83
+    },
+    {
+        "scenario": "Scenario 12",
+        "start rent": 1064,
+        "total_yearly_cost": 15150.36,
+        "--------": "--------",
+        "total_monthly_cost": 1262.53
+    },
+    {
+        "scenario": "Scenario 19",
+        "start rent": 1115,
+        "total_yearly_cost": 15255.12,
+        "--------": "--------",
+        "total_monthly_cost": 1271.26
+    },
+    {
+        "scenario": "Scenario 14",
+        "start rent": 1165,
+        "total_yearly_cost": 15440.16,
+        "--------": "--------",
+        "total_monthly_cost": 1286.68
+    },
+    {
+        "scenario": "Scenario 30",
+        "start rent": 1215,
+        "total_yearly_cost": 15503.04,
+        "--------": "--------",
+        "total_monthly_cost": 1291.92
+    },
+    {
+        "scenario": "Scenario 40",
+        "start rent": 1225,
+        "total_yearly_cost": 15554.52,
+        "--------": "--------",
+        "total_monthly_cost": 1296.21
+    },
+    {
+        "scenario": "Scenario 37",
+        "start rent": 1152,
+        "total_yearly_cost": 15685.32,
+        "--------": "--------",
+        "total_monthly_cost": 1307.11
+    },
+    {
+        "scenario": "Scenario 41",
+        "start rent": 1215,
+        "total_yearly_cost": 15698.88,
+        "--------": "--------",
+        "total_monthly_cost": 1308.24
+    },
+    {
+        "scenario": "Scenario 24",
+        "start rent": 1199,
+        "total_yearly_cost": 15699.84,
+        "--------": "--------",
+        "total_monthly_cost": 1308.32
+    },
+    {
+        "scenario": "Scenario 34",
+        "start rent": 1181,
+        "total_yearly_cost": 15715.92,
+        "--------": "--------",
+        "total_monthly_cost": 1309.66
+    },
+    {
+        "scenario": "Scenario 15",
+        "start rent": 1240,
+        "total_yearly_cost": 15731.28,
+        "--------": "--------",
+        "total_monthly_cost": 1310.94
+    },
+    {
+        "scenario": "Scenario 25",
+        "start rent": 1297,
+        "total_yearly_cost": 15831.0,
+        "--------": "--------",
+        "total_monthly_cost": 1319.25
+    },
+    {
+        "scenario": "Scenario 6",
+        "start rent": 1299,
+        "total_yearly_cost": 16023.6,
+        "--------": "--------",
+        "total_monthly_cost": 1335.3
+    },
+    {
+        "scenario": "Scenario 39",
+        "start rent": 1095,
+        "total_yearly_cost": 16201.92,
+        "--------": "--------",
+        "total_monthly_cost": 1350.16
+    },
+    {
+        "scenario": "Scenario 22",
+        "start rent": 1245,
+        "total_yearly_cost": 16572.36,
+        "--------": "--------",
+        "total_monthly_cost": 1381.03
+    },
+    {
+        "scenario": "Scenario 23",
+        "start rent": 1134,
+        "total_yearly_cost": 16621.32,
+        "--------": "--------",
+        "total_monthly_cost": 1385.11
+    },
+    {
+        "scenario": "Scenario 32",
+        "start rent": 1225,
+        "total_yearly_cost": 16623.6,
+        "--------": "--------",
+        "total_monthly_cost": 1385.3
+    },
+    {
+        "scenario": "Scenario 13",
+        "start rent": 1218,
+        "total_yearly_cost": 16680.36,
+        "--------": "--------",
+        "total_monthly_cost": 1390.03
+    },
+    {
+        "scenario": "Scenario 4",
+        "start rent": 1321,
+        "total_yearly_cost": 17125.92,
+        "--------": "--------",
+        "total_monthly_cost": 1427.16
+    },
+    {
+        "scenario": "Scenario 33",
+        "start rent": 1248,
+        "total_yearly_cost": 17406.96,
+        "--------": "--------",
+        "total_monthly_cost": 1450.58
+    },
+    {
+        "scenario": "Scenario 7",
+        "start rent": 1367,
+        "total_yearly_cost": 17409.96,
+        "--------": "--------",
+        "total_monthly_cost": 1450.83
+    },
+    {
+        "scenario": "Scenario 16",
+        "start rent": 1429,
+        "total_yearly_cost": 17435.52,
+        "--------": "--------",
+        "total_monthly_cost": 1452.96
+    },
+    {
+        "scenario": "Scenario 17",
+        "start rent": 1445,
+        "total_yearly_cost": 17700.6,
+        "--------": "--------",
+        "total_monthly_cost": 1475.05
+    },
+    {
+        "scenario": "Scenario 8",
+        "start rent": 1525,
+        "total_yearly_cost": 18655.2,
+        "--------": "--------",
+        "total_monthly_cost": 1554.6
+    },
+    {
+        "scenario": "Scenario 20",
+        "start rent": 1424,
+        "total_yearly_cost": 19227.72,
+        "--------": "--------",
+        "total_monthly_cost": 1602.31
+    },
+    {
+        "scenario": "Scenario 21",
+        "start rent": 1374,
+        "total_yearly_cost": 19355.76,
+        "--------": "--------",
+        "total_monthly_cost": 1612.98
+    },
+    {
+        "scenario": "Scenario 27",
+        "start rent": 1620,
+        "total_yearly_cost": 19878.36,
+        "--------": "--------",
+        "total_monthly_cost": 1656.53
+    }
+]
