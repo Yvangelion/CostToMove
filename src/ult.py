@@ -28,32 +28,41 @@ def calculate_gas_cost(miles_driven, mpg, gas_price, work_days_per_year=260):
     """
     Calculates the total cost of gas for commuting.
     """
+    # 60 min per month
+    min_gas = 60*12
     total_miles_per_year = miles_driven * 2 * work_days_per_year
     gallons_used_per_year = total_miles_per_year / mpg
-    gas_cost_per_year = (gallons_used_per_year * gas_price)
+    gas_cost_per_year = (gallons_used_per_year * gas_price) + min_gas
     return round(gas_cost_per_year, 2)
 
 def main():
-    hard_gas = 2.80
-    hard_mpg = 30 
-    hard_salary = 50_000
+    hard_gas = 3.70
+    hard_mpg = 15 
+    hard_salary = 100_000
     hard_utilities = 100
     
-
+    # between 6, 25, 9
+    
+    # 1,31,18,9,34 , 15
+    
+    # 1,9, 15, 18, 31, 34
+    
+    # 1 prob not 
+    # 9 ghetto cant lie 
+    #25 better than hazel muse
+    # 15 prob not
+    # 18 no
+    #31 prob not
+    #34 prob out
+    # 35 no
     
     
     # Expanded scenarios with fees and utilities
     scenarios = [
-        # Scenario 1 preston NO
-        {"monthly_rent": 772, "lease_term": 12, "free_months": 0, "flat_rate_discount": 0, "salary": hard_salary, 
-         "commute_time": 15, "miles_driven": 6, "mpg": hard_mpg, "gas_price": hard_gas, "fees": 40, "utilities": hard_utilities},
-        # Scenario 2 mezzo 
-        {"monthly_rent": 1055, "lease_term": 12, "free_months": 1.5, "flat_rate_discount": 0, "salary": hard_salary, 
-         "commute_time": 60, "miles_driven": 26, "mpg": hard_mpg, "gas_price": hard_gas, "fees": 50, "utilities": hard_utilities},
-        # Scenario 3 parkside
-        {"monthly_rent": 960, "lease_term": 12, "free_months": 1, "flat_rate_discount": 0, "salary": hard_salary, 
-         "commute_time": 45, "miles_driven": 20, "mpg": hard_mpg, "gas_price": hard_gas, "fees": 60, "utilities": hard_utilities},
- 
+       
+        
+        {"monthly_rent": 1200, "lease_term": 12, "free_months": 2, "flat_rate_discount": 1500, "salary": hard_salary, 
+         "commute_time": 60, "miles_driven": 26, "mpg": hard_mpg, "gas_price": hard_gas, "fees": 40, "utilities": hard_utilities},
 
     ]
 
@@ -122,8 +131,14 @@ def main():
     sorted_by_monthly_cost = sorted(results, key=lambda x: x["total_monthly_cost"])
     sorted_by_monthly_cost_with_commute = sorted(results, key=lambda x: x["total_monthly_cost_with_commute"])
     doublecost = sorted(results_commute, key=lambda x: x["total_monthly_cost"])
-
+    rent_first = sorted(results, key=lambda x: x["net_rent"])
+    
     # Output to JSON files
+    
+    with open("rent_sorted.json", "w") as f:
+        json.dump(results, f, indent=4)
+        
+        
     with open("sorted_by_monthly_cost.json", "w") as f:
         json.dump(sorted_by_monthly_cost, f, indent=4)
     
@@ -132,6 +147,9 @@ def main():
     
     with open("gas_no_commute.json", "w") as f:
         json.dump(doublecost, f, indent=4)
+    
+    with open("sorted_rentfirst_no_gas.json", "w") as f:
+        json.dump(rent_first, f, indent=4)
     
     with open("unsorted_scenarios.json", "w") as f:
         json.dump(results, f, indent=4)

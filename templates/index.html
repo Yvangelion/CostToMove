@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles.css') }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rent Calculator</title>
+    <nav class="navbar">
+        <a href="#">Home</a>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">Living</a>
+            <div class="dropdown-content">
+                <a href="#">Commute Cost</a>
+                <a href="#">Utilities</a>
+            </div>
+        </div>
+        <a href="#">Retirement</a>
+        <a href="#">Investments</a>
+    </nav>
+</head>
+
+<body>
+    <h1>Rent and Commute Calculator</h1>
+    <form method="POST">
+        <h2>Global Parameters</h2>
+        <label>Gas Price per Gallon: <input type="number" step="0.01" name="gas_price" required></label><br>
+        <label>Miles per Gallon (MPG): <input type="number" step="0.01" name="mpg" required></label><br>
+        <label>Yearly Salary: <input type="number" step="0.01" name="salary" required></label><br>
+        <label>Utilities Cost: <input type="number" step="0.01" name="utilities" required></label><br>
+        <label>Number of Apartments to Compare: <input type="number" name="num_apartments" required></label><br>
+
+        <div id="apartment-details"></div>
+        <button type="button" onclick="addApartment()">Add Apartment</button>
+        <button type="submit">Submit</button>
+    </form>
+
+    <script>
+        function addApartment() {
+            const container = document.getElementById("apartment-details");
+            const index = container.childElementCount + 1;
+
+            const html = `
+                <fieldset>
+                    <legend>Apartment ${index}</legend>
+                    <label>Monthly Rent: <input type="number" step="0.01" name="monthly_rent_${index}" required></label><br>
+                    <label>Lease Term (months): <input type="number" name="lease_term_${index}" required></label><br>
+                    <label>Free Months: <input type="number" name="free_months_${index}"></label><br>
+                    <label>Flat Rate Discount: <input type="number" step="0.01" name="flat_rate_discount_${index}"></label><br>
+                    <label>Commute Time (mins): <input type="number" name="commute_time_${index}" required></label><br>
+                    <label>Miles Driven (daily): <input type="number" step="0.01" name="miles_driven_${index}" required></label><br>
+                    <label>Additional Fees: <input type="number" step="0.01" name="fees_${index}"></label><br>
+                </fieldset>
+            `;
+            container.insertAdjacentHTML("beforeend", html);
+        }
+    </script>
+</body>
+</html>

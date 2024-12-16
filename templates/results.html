@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='styles.css') }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Results</title>
+    <style>
+        .rankings-container {
+            display: flex;
+            justify-content: space-between;
+            gap: 20px;
+        }
+        .ranking {
+            width: 30%;
+        }
+    </style>
+    <nav class="navbar">
+        <a href="#">Home</a>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">Living</a>
+            <div class="dropdown-content">
+                <a href="#">Commute Cost</a>
+                <a href="#">Utilities</a>
+            </div>
+        </div>
+        <a href="#">Retirement</a>
+        <a href="#">Investments</a>
+    </nav>
+</head>
+
+<body>
+    <h1>Calculation Results</h1>
+    <h2>Rankings</h2>
+    <div class="rankings-container">
+        <div class="ranking">
+            <h4>By Monthly Cost</h4>
+            <ol>
+                {% for ranking in rankings.by_monthly %}
+                    <li>Apartment {{ loop.index }}: ${{ ranking.total_monthly_cost | round(2) }}</li>
+                {% endfor %}
+            </ol>
+        </div>
+
+        <div class="ranking">
+            <h4>By Monthly Commute Cost</h4>
+            <ol>
+                {% for ranking in rankings.by_monthly_commute %}
+                    <li>Apartment {{ loop.index }}: ${{ ranking.total_monthly_cost_with_commute | round(2) }}</li>
+                {% endfor %}
+            </ol>
+        </div>
+
+        <div class="ranking">
+            <h4>By Total Yearly Cost</h4>
+            <ol>
+                {% for ranking in rankings.by_yearly %}
+                    <li>Apartment {{ loop.index }}: ${{ ranking.total_yearly_cost | round(2) }}</li>
+                {% endfor %}
+            </ol>
+        </div>
+    </div>
+
+    <h1>Apartments List</h1>
+    {% for result in results %}
+        <h2>Apartment {{ loop.index }}</h2>
+        <p>Net Rent: ${{ result.net_rent | round(2) }}</p>
+        <p>Commute Loss: ${{ result.commute_loss | round(2) }}</p>
+        <p>Gas Cost: ${{ result.gas_cost | round(2) }}</p>
+        <p>Total Monthly Cost: ${{ result.total_monthly_cost | round(2) }}</p>
+        <p>Total Monthly Cost (with Commute): ${{ result.total_monthly_cost_with_commute | round(2) }}</p>
+        <p>Total Yearly Cost: ${{ result.total_yearly_cost | round(2) }}</p>
+    {% endfor %}
+
+</body>
+</html>

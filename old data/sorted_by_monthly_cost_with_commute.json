@@ -1,0 +1,442 @@
+[
+    {
+        "scenario": "Scenario 18",
+        "start rent": 1127,
+        "net_rent": 1033.08,
+        "commute_loss": 69.44,
+        "gas_cost": 65.34,
+        "total_monthly_cost": 1248.42,
+        "total_monthly_cost_with_commute": 1317.86,
+        "total_yearly_cost": 14981.04
+    },
+    {
+        "scenario": "Scenario 25",
+        "start rent": 1299,
+        "net_rent": 1199.08,
+        "commute_loss": 69.44,
+        "gas_cost": 65.34,
+        "total_monthly_cost": 1384.42,
+        "total_monthly_cost_with_commute": 1453.86,
+        "total_yearly_cost": 16613.04
+    },
+    {
+        "scenario": "Scenario 31",
+        "start rent": 954,
+        "net_rent": 834.75,
+        "commute_loss": 451.39,
+        "gas_cost": 102.76,
+        "total_monthly_cost": 1087.51,
+        "total_monthly_cost_with_commute": 1538.9,
+        "total_yearly_cost": 13050.12
+    },
+    {
+        "scenario": "Scenario 1",
+        "start rent": 772,
+        "net_rent": 772.0,
+        "commute_loss": 520.83,
+        "gas_cost": 124.13,
+        "total_monthly_cost": 1036.13,
+        "total_monthly_cost_with_commute": 1556.96,
+        "total_yearly_cost": 12433.56
+    },
+    {
+        "scenario": "Scenario 4",
+        "start rent": 1321,
+        "net_rent": 1197.16,
+        "commute_loss": 173.61,
+        "gas_cost": 60.0,
+        "total_monthly_cost": 1487.16,
+        "total_monthly_cost_with_commute": 1660.77,
+        "total_yearly_cost": 17845.92
+    },
+    {
+        "scenario": "Scenario 35",
+        "start rent": 1075,
+        "net_rent": 931.67,
+        "commute_loss": 625.0,
+        "gas_cost": 124.13,
+        "total_monthly_cost": 1185.8,
+        "total_monthly_cost_with_commute": 1810.8,
+        "total_yearly_cost": 14229.6
+    },
+    {
+        "scenario": "Scenario 9",
+        "start rent": 1090,
+        "net_rent": 1040.0,
+        "commute_loss": 555.56,
+        "gas_cost": 124.13,
+        "total_monthly_cost": 1314.13,
+        "total_monthly_cost_with_commute": 1869.69,
+        "total_yearly_cost": 15769.56
+    },
+    {
+        "scenario": "Scenario 15",
+        "start rent": 1240,
+        "net_rent": 1136.67,
+        "commute_loss": 590.28,
+        "gas_cost": 124.13,
+        "total_monthly_cost": 1410.8,
+        "total_monthly_cost_with_commute": 2001.08,
+        "total_yearly_cost": 16929.6
+    },
+    {
+        "scenario": "Scenario 34",
+        "start rent": 1181,
+        "net_rent": 1115.39,
+        "commute_loss": 694.44,
+        "gas_cost": 124.13,
+        "total_monthly_cost": 1409.52,
+        "total_monthly_cost_with_commute": 2103.96,
+        "total_yearly_cost": 16914.24
+    },
+    {
+        "scenario": "Scenario 8",
+        "start rent": 1525,
+        "net_rent": 1334.38,
+        "commute_loss": 520.83,
+        "gas_cost": 113.44,
+        "total_monthly_cost": 1647.82,
+        "total_monthly_cost_with_commute": 2168.65,
+        "total_yearly_cost": 19773.84
+    },
+    {
+        "scenario": "Scenario 43",
+        "start rent": 1226,
+        "net_rent": 1138.43,
+        "commute_loss": 694.44,
+        "gas_cost": 209.64,
+        "total_monthly_cost": 1508.07,
+        "total_monthly_cost_with_commute": 2202.51,
+        "total_yearly_cost": 18096.84
+    },
+    {
+        "scenario": "Scenario 42",
+        "start rent": 1090,
+        "net_rent": 999.17,
+        "commute_loss": 1041.67,
+        "gas_cost": 209.64,
+        "total_monthly_cost": 1358.81,
+        "total_monthly_cost_with_commute": 2400.48,
+        "total_yearly_cost": 16305.72
+    },
+    {
+        "scenario": "Scenario 20",
+        "start rent": 1424,
+        "net_rent": 1424.0,
+        "commute_loss": 694.44,
+        "gas_cost": 134.82,
+        "total_monthly_cost": 1708.82,
+        "total_monthly_cost_with_commute": 2403.26,
+        "total_yearly_cost": 20505.84
+    },
+    {
+        "scenario": "Scenario 5",
+        "start rent": 1090,
+        "net_rent": 953.75,
+        "commute_loss": 1041.67,
+        "gas_cost": 241.71,
+        "total_monthly_cost": 1375.46,
+        "total_monthly_cost_with_commute": 2417.13,
+        "total_yearly_cost": 16505.52
+    },
+    {
+        "scenario": "Scenario 12",
+        "start rent": 1059,
+        "net_rent": 1059.0,
+        "commute_loss": 1041.67,
+        "gas_cost": 188.27,
+        "total_monthly_cost": 1397.27,
+        "total_monthly_cost_with_commute": 2438.94,
+        "total_yearly_cost": 16767.24
+    },
+    {
+        "scenario": "Scenario 41",
+        "start rent": 1181,
+        "net_rent": 1082.58,
+        "commute_loss": 1041.67,
+        "gas_cost": 177.58,
+        "total_monthly_cost": 1410.16,
+        "total_monthly_cost_with_commute": 2451.83,
+        "total_yearly_cost": 16921.92
+    },
+    {
+        "scenario": "Scenario 6",
+        "start rent": 1299,
+        "net_rent": 1082.5,
+        "commute_loss": 1041.67,
+        "gas_cost": 252.4,
+        "total_monthly_cost": 1514.9,
+        "total_monthly_cost_with_commute": 2556.57,
+        "total_yearly_cost": 18178.8
+    },
+    {
+        "scenario": "Scenario 22",
+        "start rent": 1245,
+        "net_rent": 1182.5,
+        "commute_loss": 1041.67,
+        "gas_cost": 188.27,
+        "total_monthly_cost": 1520.77,
+        "total_monthly_cost_with_commute": 2562.44,
+        "total_yearly_cost": 18249.24
+    },
+    {
+        "scenario": "Scenario 13",
+        "start rent": 1218,
+        "net_rent": 1116.5,
+        "commute_loss": 1041.67,
+        "gas_cost": 188.27,
+        "total_monthly_cost": 1529.77,
+        "total_monthly_cost_with_commute": 2571.44,
+        "total_yearly_cost": 18357.24
+    },
+    {
+        "scenario": "Scenario 28",
+        "start rent": 999,
+        "net_rent": 999.0,
+        "commute_loss": 1215.28,
+        "gas_cost": 220.33,
+        "total_monthly_cost": 1369.33,
+        "total_monthly_cost_with_commute": 2584.61,
+        "total_yearly_cost": 16431.96
+    },
+    {
+        "scenario": "Scenario 33",
+        "start rent": 1248,
+        "net_rent": 1248.0,
+        "commute_loss": 1041.67,
+        "gas_cost": 198.96,
+        "total_monthly_cost": 1596.96,
+        "total_monthly_cost_with_commute": 2638.63,
+        "total_yearly_cost": 19163.52
+    },
+    {
+        "scenario": "Scenario 16",
+        "start rent": 1429,
+        "net_rent": 1250.38,
+        "commute_loss": 1215.28,
+        "gas_cost": 198.96,
+        "total_monthly_cost": 1599.34,
+        "total_monthly_cost_with_commute": 2814.62,
+        "total_yearly_cost": 19192.08
+    },
+    {
+        "scenario": "Scenario 19",
+        "start rent": 1115,
+        "net_rent": 1052.5,
+        "commute_loss": 1388.89,
+        "gas_cost": 241.71,
+        "total_monthly_cost": 1444.21,
+        "total_monthly_cost_with_commute": 2833.1,
+        "total_yearly_cost": 17330.52
+    },
+    {
+        "scenario": "Scenario 27",
+        "start rent": 1620,
+        "net_rent": 1458.0,
+        "commute_loss": 1041.67,
+        "gas_cost": 188.27,
+        "total_monthly_cost": 1796.27,
+        "total_monthly_cost_with_commute": 2837.94,
+        "total_yearly_cost": 21555.24
+    },
+    {
+        "scenario": "Scenario 17",
+        "start rent": 1445,
+        "net_rent": 1264.38,
+        "commute_loss": 1215.28,
+        "gas_cost": 220.33,
+        "total_monthly_cost": 1634.71,
+        "total_monthly_cost_with_commute": 2849.99,
+        "total_yearly_cost": 19616.52
+    },
+    {
+        "scenario": "Scenario 3",
+        "start rent": 960,
+        "net_rent": 880.0,
+        "commute_loss": 1562.5,
+        "gas_cost": 273.78,
+        "total_monthly_cost": 1313.78,
+        "total_monthly_cost_with_commute": 2876.28,
+        "total_yearly_cost": 15765.36
+    },
+    {
+        "scenario": "Scenario 11",
+        "start rent": 1049,
+        "net_rent": 917.88,
+        "commute_loss": 1562.5,
+        "gas_cost": 305.84,
+        "total_monthly_cost": 1373.72,
+        "total_monthly_cost_with_commute": 2936.22,
+        "total_yearly_cost": 16484.64
+    },
+    {
+        "scenario": "Scenario 32",
+        "start rent": 1225,
+        "net_rent": 1162.5,
+        "commute_loss": 1388.89,
+        "gas_cost": 252.4,
+        "total_monthly_cost": 1564.9,
+        "total_monthly_cost_with_commute": 2953.79,
+        "total_yearly_cost": 18778.8
+    },
+    {
+        "scenario": "Scenario 7",
+        "start rent": 1367,
+        "net_rent": 1196.12,
+        "commute_loss": 1388.89,
+        "gas_cost": 231.02,
+        "total_monthly_cost": 1617.14,
+        "total_monthly_cost_with_commute": 3006.03,
+        "total_yearly_cost": 19405.68
+    },
+    {
+        "scenario": "Scenario 14",
+        "start rent": 1165,
+        "net_rent": 1067.92,
+        "commute_loss": 1562.5,
+        "gas_cost": 241.71,
+        "total_monthly_cost": 1459.63,
+        "total_monthly_cost_with_commute": 3022.13,
+        "total_yearly_cost": 17515.56
+    },
+    {
+        "scenario": "Scenario 36",
+        "start rent": 1067,
+        "net_rent": 933.62,
+        "commute_loss": 1736.11,
+        "gas_cost": 305.84,
+        "total_monthly_cost": 1389.46,
+        "total_monthly_cost_with_commute": 3125.57,
+        "total_yearly_cost": 16673.52
+    },
+    {
+        "scenario": "Scenario 44",
+        "start rent": 1200,
+        "net_rent": 875.0,
+        "commute_loss": 2083.33,
+        "gas_cost": 337.91,
+        "total_monthly_cost": 1352.91,
+        "total_monthly_cost_with_commute": 3436.24,
+        "total_yearly_cost": 16234.92
+    },
+    {
+        "scenario": "Scenario 2",
+        "start rent": 1055,
+        "net_rent": 879.17,
+        "commute_loss": 2083.33,
+        "gas_cost": 337.91,
+        "total_monthly_cost": 1367.08,
+        "total_monthly_cost_with_commute": 3450.41,
+        "total_yearly_cost": 16404.96
+    },
+    {
+        "scenario": "Scenario 39",
+        "start rent": 1095,
+        "net_rent": 1095.0,
+        "commute_loss": 1909.72,
+        "gas_cost": 337.91,
+        "total_monthly_cost": 1582.91,
+        "total_monthly_cost_with_commute": 3492.63,
+        "total_yearly_cost": 18994.92
+    },
+    {
+        "scenario": "Scenario 38",
+        "start rent": 1021,
+        "net_rent": 935.92,
+        "commute_loss": 2083.33,
+        "gas_cost": 327.22,
+        "total_monthly_cost": 1413.14,
+        "total_monthly_cost_with_commute": 3496.47,
+        "total_yearly_cost": 16957.68
+    },
+    {
+        "scenario": "Scenario 10",
+        "start rent": 1050,
+        "net_rent": 962.5,
+        "commute_loss": 2083.33,
+        "gas_cost": 327.22,
+        "total_monthly_cost": 1439.72,
+        "total_monthly_cost_with_commute": 3523.05,
+        "total_yearly_cost": 17276.64
+    },
+    {
+        "scenario": "Scenario 21",
+        "start rent": 1374,
+        "net_rent": 1374.0,
+        "commute_loss": 1736.11,
+        "gas_cost": 295.16,
+        "total_monthly_cost": 1819.16,
+        "total_monthly_cost_with_commute": 3555.27,
+        "total_yearly_cost": 21829.92
+    },
+    {
+        "scenario": "Scenario 26",
+        "start rent": 1190,
+        "net_rent": 991.67,
+        "commute_loss": 2083.33,
+        "gas_cost": 337.91,
+        "total_monthly_cost": 1479.58,
+        "total_monthly_cost_with_commute": 3562.91,
+        "total_yearly_cost": 17754.96
+    },
+    {
+        "scenario": "Scenario 37",
+        "start rent": 1152,
+        "net_rent": 1056.0,
+        "commute_loss": 2083.33,
+        "gas_cost": 327.22,
+        "total_monthly_cost": 1533.22,
+        "total_monthly_cost_with_commute": 3616.55,
+        "total_yearly_cost": 18398.64
+    },
+    {
+        "scenario": "Scenario 24",
+        "start rent": 1199,
+        "net_rent": 1049.12,
+        "commute_loss": 2083.33,
+        "gas_cost": 348.6,
+        "total_monthly_cost": 1547.72,
+        "total_monthly_cost_with_commute": 3631.05,
+        "total_yearly_cost": 18572.64
+    },
+    {
+        "scenario": "Scenario 40",
+        "start rent": 1225,
+        "net_rent": 1020.83,
+        "commute_loss": 2083.33,
+        "gas_cost": 391.36,
+        "total_monthly_cost": 1562.19,
+        "total_monthly_cost_with_commute": 3645.52,
+        "total_yearly_cost": 18746.28
+    },
+    {
+        "scenario": "Scenario 23",
+        "start rent": 1134,
+        "net_rent": 1134.0,
+        "commute_loss": 2083.33,
+        "gas_cost": 327.22,
+        "total_monthly_cost": 1611.22,
+        "total_monthly_cost_with_commute": 3694.55,
+        "total_yearly_cost": 19334.64
+    },
+    {
+        "scenario": "Scenario 29",
+        "start rent": 1198,
+        "net_rent": 923.25,
+        "commute_loss": 2604.17,
+        "gas_cost": 337.91,
+        "total_monthly_cost": 1411.16,
+        "total_monthly_cost_with_commute": 4015.33,
+        "total_yearly_cost": 16933.92
+    },
+    {
+        "scenario": "Scenario 30",
+        "start rent": 1215,
+        "net_rent": 1012.5,
+        "commute_loss": 2604.17,
+        "gas_cost": 402.04,
+        "total_monthly_cost": 1564.54,
+        "total_monthly_cost_with_commute": 4168.71,
+        "total_yearly_cost": 18774.48
+    }
+]
