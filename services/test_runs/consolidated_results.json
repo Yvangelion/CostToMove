@@ -1,0 +1,135 @@
+[
+    {
+        "scenario": "Scenario 3",
+        "net_rent": 783.33,
+        "commute_loss": 2083.33,
+        "gas_cost": 337.91,
+        "total_monthly_cost": 1261.24,
+        "total_monthly_cost_no_gas": 923.33,
+        "total_yearly_cost_no_gas": 11079.96,
+        "Random------------": "-",
+        "total_monthly_cost_with_commute": 3344.57,
+        "move_in_costs": {
+            "admin_cost": 200,
+            "deposit": 500,
+            "app_fee": 75,
+            "total": 0
+        },
+        "Full_costs_monthly": 923.33,
+        "Full_costs": 11079.96
+    },
+    {
+        "scenario": "Scenario 7",
+        "net_rent": 846.12,
+        "commute_loss": 1041.67,
+        "gas_cost": 209.64,
+        "total_monthly_cost": 1210.76,
+        "total_monthly_cost_no_gas": 1001.12,
+        "total_yearly_cost_no_gas": 12013.44,
+        "Random------------": "-",
+        "total_monthly_cost_with_commute": 2252.43,
+        "move_in_costs": {
+            "admin_cost": 150,
+            "deposit": 250,
+            "app_fee": 75,
+            "total": 475
+        },
+        "Full_costs_monthly": 1040.7,
+        "Full_costs": 12488.44
+    },
+    {
+        "scenario": "Scenario 1",
+        "net_rent": 919.0,
+        "commute_loss": 520.83,
+        "gas_cost": 124.13,
+        "total_monthly_cost": 1213.13,
+        "total_monthly_cost_no_gas": 1089.0,
+        "total_yearly_cost_no_gas": 13068.0,
+        "Random------------": "-",
+        "total_monthly_cost_with_commute": 1733.97,
+        "move_in_costs": {
+            "admin_cost": 125,
+            "deposit": 400,
+            "app_fee": 75,
+            "total": 600
+        },
+        "Full_costs_monthly": 1139.0,
+        "Full_costs": 13668.0
+    },
+    {
+        "scenario": "Scenario 2",
+        "net_rent": 891.67,
+        "commute_loss": 2083.33,
+        "gas_cost": 337.91,
+        "total_monthly_cost": 1379.58,
+        "total_monthly_cost_no_gas": 1041.67,
+        "total_yearly_cost_no_gas": 12500.04,
+        "Random------------": "-",
+        "total_monthly_cost_with_commute": 3462.91,
+        "move_in_costs": {
+            "admin_cost": 150,
+            "deposit": 1000,
+            "app_fee": 75,
+            "total": 1225
+        },
+        "Full_costs_monthly": 1143.75,
+        "Full_costs": 13725.04
+    },
+    {
+        "scenario": "Scenario 4",
+        "net_rent": 1140.33,
+        "commute_loss": 173.61,
+        "gas_cost": 65.34,
+        "total_monthly_cost": 1325.67,
+        "total_monthly_cost_no_gas": 1260.33,
+        "total_yearly_cost_no_gas": 15123.96,
+        "Random------------": "-",
+        "total_monthly_cost_with_commute": 1499.29,
+        "move_in_costs": {
+            "admin_cost": 200,
+            "deposit": 200,
+            "app_fee": 75,
+            "total": 475
+        },
+        "Full_costs_monthly": 1299.91,
+        "Full_costs": 15598.96
+    },
+    {
+        "scenario": "Scenario 5",
+        "net_rent": 1082.5,
+        "commute_loss": 1041.67,
+        "gas_cost": 337.91,
+        "total_monthly_cost": 1570.41,
+        "total_monthly_cost_no_gas": 1232.5,
+        "total_yearly_cost_no_gas": 14790.0,
+        "Random------------": "-",
+        "total_monthly_cost_with_commute": 2612.08,
+        "move_in_costs": {
+            "admin_cost": 300,
+            "deposit": 600,
+            "app_fee": 150,
+            "total": 1050
+        },
+        "Full_costs_monthly": 1320.0,
+        "Full_costs": 15840.0
+    },
+    {
+        "scenario": "Scenario 6",
+        "net_rent": 1160.0,
+        "commute_loss": 1041.67,
+        "gas_cost": 209.64,
+        "total_monthly_cost": 1514.64,
+        "total_monthly_cost_no_gas": 1305.0,
+        "total_yearly_cost_no_gas": 15660.0,
+        "Random------------": "-",
+        "total_monthly_cost_with_commute": 2556.31,
+        "move_in_costs": {
+            "admin_cost": 150,
+            "deposit": 250,
+            "app_fee": 75,
+            "total": 475
+        },
+        "Full_costs_monthly": 1344.58,
+        "Full_costs": 16135.0
+    }
+]

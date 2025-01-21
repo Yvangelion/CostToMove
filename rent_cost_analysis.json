@@ -1,0 +1,42 @@
+[
+    {
+        "scenario": "Scenario 1",
+        "net_rent": 772.0,
+        "commute_loss": 520.83,
+        "gas_cost": 64.13,
+        "total_monthly_cost": 976.13,
+        "total_monthly_cost_with_commute": 1496.96
+    },
+    {
+        "scenario": "Scenario 2",
+        "net_rent": 879.17,
+        "commute_loss": 2083.33,
+        "gas_cost": 277.91,
+        "total_monthly_cost": 1307.08,
+        "total_monthly_cost_with_commute": 3390.41
+    },
+    {
+        "scenario": "Scenario 3",
+        "net_rent": 880.0,
+        "commute_loss": 1562.5,
+        "gas_cost": 213.78,
+        "total_monthly_cost": 1253.78,
+        "total_monthly_cost_with_commute": 2816.2799999999997
+    },
+    {
+        "scenario": "Scenario 4",
+        "net_rent": 1197.16,
+        "commute_loss": 173.61,
+        "gas_cost": 0.0,
+        "total_monthly_cost": 1427.16,
+        "total_monthly_cost_with_commute": 1600.77
+    },
+    {
+        "scenario": "Scenario 5",
+        "net_rent": 953.75,
+        "commute_loss": 1041.67,
+        "gas_cost": 181.71,
+        "total_monthly_cost": 1315.46,
+        "total_monthly_cost_with_commute": 2357.13
+    }
+]
